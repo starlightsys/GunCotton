@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "guncotton",
+    "name": "Gun Cotton",
+    "authors": ["starlightsys"],
+    "maintainers": ["starlightsys"],
+    "description": "Adds craftable gun cotton, gun cotton based explosives, and gunpowder.",
+    "category": "items",
+    "dependencies": ["dda"]
+  }
+]
